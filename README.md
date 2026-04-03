@@ -65,3 +65,14 @@ Authorization: <your_token>
 - GET /api/transactions
 - POST /api/transactions
 - GET /api/transactions/summary
+
+
+## API Documentation
+Provide links to your API documentation (Swagger, Postman, etc.)
+- [Swagger Docs](https://your-docs.example.com)
+- [Postman Collection](https://your-api.example.com)
+
+## Endpoints
+- `GET /transactions` – List all transactions
+- `POST /transactions` – Add a new transaction
+- `GET /users` – List all users
